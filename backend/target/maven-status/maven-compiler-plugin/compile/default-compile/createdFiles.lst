@@ -1,0 +1,5 @@
+com/doston/JobApp/model/JobPost.class
+com/doston/JobApp/JobAppApplication.class
+com/doston/JobApp/JobController.class
+com/doston/JobApp/repository/JobRepo.class
+com/doston/JobApp/service/JobService.class
