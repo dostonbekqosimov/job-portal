@@ -38,14 +38,4 @@ Job Portal is a full-stack web application designed to facilitate job posting an
 **Access the Application:
 Open your web browser and go to http://localhost:3000 to access the Job Portal application.
 
-**Dependencies
-**Frontend:
-React
-Axios (for making HTTP requests)
-**Backend:
-Spring Boot Web
-Spring Boot Data JPA
-PostgreSQL Driver
-**Build Tool:
-Maven
 
